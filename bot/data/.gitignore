@@ -1,0 +1,4 @@
+# Database files created at runtime
+*.db
+*.sqlite
+*.sqlite3
