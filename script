@@ -1,4 +1,0 @@
-cd /opt/scam-app
-git init
-git branch -M main
-git remote add origin https://github.com/JohnyIT1488/my-deploy-scripts.git
